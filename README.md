@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mrunalmunot
-- 👀 I’m interested in the new technologies..
+- 👋 Hi, I’m @bhumikabadnore
+- 👀 I’m interested in learn the new things..
 - 🌱 I’m currently learning Computer Engineering.
-- 💞️ I’m looking to collaborate on project related to python.
-- 📫 How to reach me https://www.linkedin.com/in/mrunalmunot/
-- 📝 Visit blog https://mrunalmunot.wordpress.com/
-- 💼 Visit Portfolio https://mrunalmunot.github.io/
+- 📫 How to reach me https://linkedin.com/in/bhumika-badnore-b19249193
+- 💼 Visit Portfolio https://bhumikabadnore.github.io/
+
