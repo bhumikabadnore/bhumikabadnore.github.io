@@ -11,7 +11,7 @@ p {
 
 .primary-button a {
   display: inline-block;
-  background-color: skyblue;
+  background-color:skyblue;
   color: #343434;
   font-size: 13px;
   padding: 12px 18px;
@@ -108,12 +108,12 @@ p {
   text-transform: uppercase;
   text-align: center;
   font-weight: 400;
-  color: white;
+  color:white;
   margin-top: 15px;
 }
 
 .cd-slider-nav ul .selected h6 {
-  color: red;
+  color:red;
   text-decoration: none;
 }
 
