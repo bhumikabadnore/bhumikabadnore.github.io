@@ -22,7 +22,7 @@ p {
 
 .primary-button a:hover {
   background-color: transparent;
-  border: 1px solid #ffbb05;
+  border: 1px solid sky blue;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   -webkit-transition: all 0.2s linear;
