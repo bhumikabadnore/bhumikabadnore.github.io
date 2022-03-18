@@ -108,12 +108,12 @@ p {
   text-transform: uppercase;
   text-align: center;
   font-weight: 400;
-  color: white;
+  color: red;
   margin-top: 15px;
 }
 
 .cd-slider-nav ul .selected h6 {
-  color: #red;
+  color: white;
   text-decoration: none;
 }
 
